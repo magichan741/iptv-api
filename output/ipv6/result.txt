@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-15 06:19:58,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+2025-12-15 18:28:28,http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 
 📺央视频道,#genre#
 
@@ -11,10 +11,10 @@
 庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?fbl=
 余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 余杭未来E,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
-余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
 余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?
 余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 余姚综合,https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed?
 上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 
 ☘️上海频道,#genre#
@@ -45,5 +45,3 @@
 五星体育,http://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8
 
 🪁动画频道,#genre#
-
-🎮游戏频道,#genre#
