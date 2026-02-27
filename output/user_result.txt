@@ -1,14 +1,8 @@
 🕘️更新时间,#genre#
-2026-02-27 18:39:55,http://74.91.26.218:82/live/cctv4hd.m3u8
+2026-02-28 06:25:23,https://cdn3.163189.xyz/163189/cctv13
 
 📺央视频道,#genre#
-CCTV-4,http://74.91.26.218:82/live/cctv4hd.m3u8
-CCTV-11,http://69.30.246.194/live/cctv11.m3u8
-CCTV-12,http://69.30.246.194/live/cctv12.m3u8
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
-CCTV-14,http://69.30.246.194/live/cctv14.m3u8
-CCTV-15,http://69.30.246.194/live/cctv15.m3u8
-CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 
 💰央视付费频道,#genre#
 风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
@@ -18,11 +12,6 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 
 📡卫视频道,#genre#
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
-浙江卫视,http://69.30.246.194/live/zjws.m3u8
-湖南卫视,http://69.30.246.194/live/hnws.m3u8
-东方卫视,http://69.30.246.194/live/dfws.m3u8
-东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
-江苏卫视,http://69.30.246.194/live/jsws.m3u8
 青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
 新疆卫视,http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub
 
@@ -54,12 +43,9 @@ CCTV-16,http://69.30.246.194/live/cctv16.m3u8
 梨园,https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=41543190cdf375f1c73207222bb96542&wsTime=1769313549
 
 ☘️甘肃频道,#genre#
-白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 
 ☘️新疆频道,#genre#
 
 ☘️安徽频道,#genre#
 
 ☘️青海频道,#genre#
-
-🪁动画频道,#genre#
