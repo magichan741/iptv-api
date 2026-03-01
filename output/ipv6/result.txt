@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-01 18:27:04,https://cdn3.163189.xyz/163189/cctv13
+2026-03-02 06:25:50,https://cdn3.163189.xyz/163189/cctv13
 
 📺央视频道,#genre#
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
@@ -9,7 +9,6 @@ CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 📡卫视频道,#genre#
 
 ☘️浙江频道,#genre#
-余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
 
 ☘️重庆频道,#genre#
 
