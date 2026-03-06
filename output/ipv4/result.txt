@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-06 18:36:58,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+2026-03-07 06:30:00,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 
 📺央视频道,#genre#
 
@@ -22,6 +22,9 @@
 浙江国际,http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
 浙江民生休闲,http://ali-xwl.cztv.com/live/channel061080Plxw.m3u8
 浙江教科影视,http://ali-xwl.cztv.com/live/channel041080Plxw.m3u8
+庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?zzhed?
+余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
+上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
 
 ☘️重庆频道,#genre#
 
