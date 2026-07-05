@@ -1,9 +1,11 @@
-Name: CCTV-1, URL: http://69.30.245.50/live/cctv1.m3u8, IPv_Type: ipv4, Date: None, Delay: 10071 ms, Speed: 0.34 M/s, Resolution: 1920x1080
-Name: CCTV-1, URL: http://198.204.240.250:82/live/cctv1.m3u8, IPv_Type: ipv4, Date: None, Delay: 549 ms, Speed: 6.35 M/s, Resolution: 1920x1080
-Name: CCTV-6, URL: http://198.204.240.250:82/live/cctv6.m3u8, IPv_Type: ipv4, Date: None, Delay: 607 ms, Speed: 6.95 M/s, Resolution: 1920x1080
-Name: CCTV-6, URL: http://69.30.245.50/live/cctv6.m3u8, IPv_Type: ipv4, Date: None, Delay: 10069 ms, Speed: 0.34 M/s, Resolution: 1920x1080
-Name: CCTV-10, URL: https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8, IPv_Type: ipv4, Date: None, Delay: 2660 ms, Speed: 0.56 M/s, Resolution: None
-Name: 东方卫视, URL: http://bp-resource-dfl.bestv.cn/148/3/video.m3u8, IPv_Type: ipv4, Date: None, Delay: 2202 ms, Speed: 0.78 M/s, Resolution: 1920x1080
+Name: CCTV-1, URL: http://69.30.245.50/live/cctv1.m3u8, IPv_Type: ipv4, Date: None, Delay: 2853 ms, Speed: 1.24 M/s, Resolution: 1920x1080
+Name: CCTV-1, URL: http://198.204.240.250:82/live/cctv1.m3u8, IPv_Type: ipv4, Date: None, Delay: 970 ms, Speed: 3.64 M/s, Resolution: 1920x1080
+Name: CCTV-6, URL: http://198.204.240.250:82/live/cctv6.m3u8, IPv_Type: ipv4, Date: None, Delay: 1042 ms, Speed: 3.97 M/s, Resolution: 1920x1080
+Name: CCTV-6, URL: http://69.30.245.50/live/cctv6.m3u8, IPv_Type: ipv4, Date: None, Delay: 3394 ms, Speed: 1.23 M/s, Resolution: 1920x1080
+Name: CCTV-10, URL: https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8, IPv_Type: ipv4, Date: None, Delay: 2922 ms, Speed: 0.47 M/s, Resolution: None
+Name: CCTV-13, URL: http://221.193.168.224:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Date: None, Delay: 10239 ms, Speed: 0.00 M/s, Resolution: None
+Name: 东方卫视, URL: http://bp-resource-dfl.bestv.cn/148/3/video.m3u8, IPv_Type: ipv4, Date: None, Delay: 2936 ms, Speed: 0.55 M/s, Resolution: 1920x1080
+Name: 天津卫视, URL: http://125.42.151.195:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0, IPv_Type: ipv4, Date: None, Delay: 10765 ms, Speed: 0.00 M/s, Resolution: None
 Name: 垫江综合, URL: rtmp://play-sh.quklive.com/live/1672366847646284, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 南宁新闻综合, URL: rtmp://tv.qntv.net/channellive/ch1?zguizd, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 名山综合, URL: rtmp://tv.yunxya.com:1937/channellive/mingshan, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: inf M/s, Resolution: 1920x1080
