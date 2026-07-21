@@ -1,12 +1,13 @@
 🕘️更新时间,#genre#
-2026-07-21 07:01:41,http://222.223.41.27:8888/hls/7/index.m3u8
+2026-07-21 19:47:01,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
 📺央视频道,#genre#
-CCTV-7,http://222.223.41.27:8888/hls/7/index.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
 📡卫视频道,#genre#
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+
+☘️广东频道,#genre#
 
 ☘️重庆频道,#genre#
 
@@ -23,3 +24,5 @@ CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 ☘️安徽频道,#genre#
 
 ☘️青海频道,#genre#
+
+🪁动画频道,#genre#
