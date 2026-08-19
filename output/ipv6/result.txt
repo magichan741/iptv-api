@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-19 18:34:21,http://r.jdshipin.com/GeWKr
+2026-08-20 06:29:44,http://r.jdshipin.com/GeWKr
 
 📺央视频道,#genre#
 
@@ -8,8 +8,6 @@
 📡卫视频道,#genre#
 
 ☘️广东频道,#genre#
-
-☘️上海频道,#genre#
 
 ☘️重庆频道,#genre#
 
@@ -41,3 +39,5 @@
 🪁动画频道,#genre#
 
 🎵音乐频道,#genre#
+
+🏛经典剧场,#genre#
