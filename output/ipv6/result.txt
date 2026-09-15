@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-15 00:15:29,http://r.jdshipin.com/GeWKr
+2026-09-15 08:23:52,http://r.jdshipin.com/GeWKr
 
 📺央视频道,#genre#
 
@@ -14,6 +14,8 @@
 ☘️重庆频道,#genre#
 
 ☘️广西频道,#genre#
+
+☘️天津频道,#genre#
 
 ☘️四川频道,#genre#
 
