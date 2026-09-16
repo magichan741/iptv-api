@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-16 08:03:05,https://cdn3.indevs.in/stream/tvb/fct/
+2026-09-16 22:41:39,https://cdn3.indevs.in/stream/tvb/fct/
 
 📺央视频道,#genre#
 
@@ -14,8 +14,6 @@
 ☘️重庆频道,#genre#
 
 ☘️广西频道,#genre#
-
-☘️天津频道,#genre#
 
 ☘️四川频道,#genre#
 
@@ -37,11 +35,8 @@
 🎬电影频道,#genre#
 无线星河,http://r.jdshipin.com/Voac4
 
-🏀体育频道,#genre#
-
 🪁动画频道,#genre#
 
 🎵音乐频道,#genre#
 
 🏛经典剧场,#genre#
-笑傲江湖,https://live.metshop.top/huya/23865142
