@@ -1,13 +1,11 @@
 🕘️更新时间,#genre#
-2026-09-25 23:05:36,https://cdn3.indevs.in/stream/tvb/fct/
+2026-09-26 08:25:11,https://cdn3.indevs.in/stream/tvb/fct/
 
 📺央视频道,#genre#
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
-
-☘️广东频道,#genre#
 
 ☘️浙江频道,#genre#
 
@@ -33,11 +31,6 @@
 无线新闻,https://cdn6.cc.cd/163189/wxxwt
 
 🎬电影频道,#genre#
-无线星河,http://r.jdshipin.com/Voac4
-
-🏀体育频道,#genre#
-
-🪁动画频道,#genre#
 
 🎵音乐频道,#genre#
 
